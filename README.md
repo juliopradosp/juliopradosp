@@ -3,8 +3,8 @@
 📍 São Paulo - SP  
 🎓 Bachelor of Science in Information Technology  (UNIVESP)  
 💼 Kasi  
-🐧 Linux user since 2016
-🔒 Cybersec
+🐧 Linux user since 2016  
+🔒 CyberSec
 
 ---
 
