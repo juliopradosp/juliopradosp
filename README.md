@@ -55,5 +55,5 @@
 ### Projects
 
 - 🧘 **[Ehipassiko](https://ehipassiko.com.br)** — A prototype of a social network for Buddhism practitioners. Minimalist and free of addictive algorithms. Focused on tracking Sutta Pitaka readings and logging insights in a personal microblog.
-- 🎲 **[AleatorizeRPG](https://aleatorizerpg.com.br)** — Tools and automatic generators for TTRPGs.
+- 🎲 **[AleatorizeRPG](https://aleatorizerpg.com)** — Tools and automatic generators for TTRPGs.
 
